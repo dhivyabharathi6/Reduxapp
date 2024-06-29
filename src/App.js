@@ -15,7 +15,7 @@ function App() {
       <p>The value is : {count}</p>
       <div>
         <button onClick={()=>{dispatch(increment())}}> Increase</button>
-        <button onClick={()=>{dispatch(decrement())}}>Decrease</button>
+        <button onClick={()=>{dispatch(decrement())}}>Decrease buttongit</button>
       </div>
     </div>
   );
